@@ -24,7 +24,7 @@ Accédez ensuite à http://localhost:7070 dans votre navigateur.
    ```
    Ajoutez Java à votre PATH (si nécessaire) :
    ```sh
-   echo 'export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"' >> ~/.zshrc
+   echo 'export PATH="/opt/homebrew/opt/openjdk@21/bin:$PATH"' >> ~/.zshrc
    source ~/.zshrc
    ```
 3. Installez Maven :
